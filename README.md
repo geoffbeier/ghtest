@@ -5,7 +5,7 @@ testing some doc formatting features
 
 How does this show up here?
 
-!(Yaktocat)[yaktocat.png]
+![Yaktocat](yaktocat.png)
 
 ## Source code
 
